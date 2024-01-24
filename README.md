@@ -1,7 +1,5 @@
 # Simple-Cool-Compiler
 
-# Simple Cool Compiler
-
 ## Overview
 This project implements a simple compiler for the Cool (Classroom Object Oriented Language) programming language. The compiler consists of a lexer and a parser that generate an Abstract Syntax Tree (AST) from Cool source code.
 
